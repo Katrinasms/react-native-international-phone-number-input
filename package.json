@@ -1,0 +1,36 @@
+{
+  "name": "react-native-international-phone-number-input",
+  "version": "0.0.1",
+  "description": "This is a npm package for the international phone input use in React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katrinasms/react-native-international-phone-number-input.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "phone-number",
+    "country-code",
+    "react-native-phone-number-input",
+    "ios",
+    "android",
+    "tel",
+    "telephone"
+  ],
+  "dependencies": {
+    "google-libphonenumber": "~3.2.32"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  },
+  "author": "katrina Shui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Katrinasms/react-native-international-phone-number-input/issues"
+  },
+  "homepage": "https://github.com/Katrinasms/react-native-international-phone-number-input#readme"
+}
